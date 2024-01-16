@@ -1,0 +1,56 @@
+.body .main5{
+    margin-top: 20px;
+    margin-left: 1vw;
+    height: 320px;
+    background-color: white;
+}
+
+.body .main5 .top{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    column-gap: 20px;
+
+}
+.body .main5 .top p{
+    font-size: 25px;
+    color: black;
+}
+body .main5 .top a{
+    text-decoration: none;
+    font-size: 15px;
+}
+.body .main5 .top a:hover{
+    text-decoration: underline;
+}
+.body .main5 .down{
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+}
+.body .main5 .down img{
+    height: 250px;
+    width: 150px;
+  
+}
+.body .main6{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+
+
+}
+.body .main6 img{
+    height: 250px;
+    width: 1000px;
+
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,110 @@
+body .body .last{
+    margin-top: 20px;
+    background-color: white;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body .body .last input{
+    background-color: rgb(154, 154, 11);
+    width: 250px;
+    height: 30px;
+    padding: 5px;
+}
+body .body .last input:hover{
+    background-color: rgb(255, 2, 2);
+}
+
+body .body .last .cus{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+body .body .last .cus a{
+    text-decoration: none;
+    font-size: small;
+}
+
+
+body .body .last2{
+    margin: 0px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    height: 50px;
+  color: white;
+    background-color: #007185;
+}
+body .body .last2:hover{
+    background-color: rgb(38, 57, 74);
+    ;
+}
+body .body .last3{
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+    height: 50vh;
+    width: 100vw;
+    background-color: #232F3E;
+}
+body .body .last3 .up{
+    padding: 0px 40px;
+    
+    display: flex;
+    flex-direction: row;
+    row-gap: 4px;
+    justify-content: center;
+    align-items: center;
+}
+body .body .last3 .up .con1{
+
+    display: flex;
+    justify-content: center;
+    color: white;
+    
+    background-color:#232F3E;
+    height: 20vh;
+    width: 25vw;
+
+}
+body .body .last3 .up .con1 p{
+    font-size: 20px;
+}
+body .body .last3 .up .con1 a{
+    color: white;
+    
+
+}
+body .body .last3 .up .con1 a:hover{
+    text-decoration: underline;
+}
+body .body .last3 .down{
+    margin-top: 100px;
+    padding: 20px;
+
+}
+body .body .last3 .down .cont a{
+    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    text-decoration:none ;
+
+
+    
+}
+body .body .last3 .down .cont a li{
+    font-size: 15px;
+    color: aqua;
+    list-style: none;
+}
+body .body .last3 .down .cont a li:hover{
+    text-decoration: underline;
+}
+
+

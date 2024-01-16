@@ -1,0 +1,55 @@
+footer{
+    margin-top: 50px;
+    height: 40vh;
+    background-color: #1a1b1b;;
+}
+footer .foot1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    column-gap: 100px;
+}
+footer .foot1 a{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+}
+footer .foot1 a li{
+    font-size: small;
+    list-style: none;
+    color: white;
+}
+footer .foot1 a li:hover{
+    
+    text-decoration: underline;
+}
+
+footer .foot2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+footer .foot2 a{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+    text-decoration: none;
+}
+footer .foot2 a li{
+    color: white;
+    list-style: none;
+}
+footer .foot2 a li:hover{
+    text-decoration: underline;
+}
+footer .foot2 p{
+    margin-top: 20px;
+    color: white;
+}

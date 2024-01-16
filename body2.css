@@ -1,0 +1,99 @@
+body div.body div.main2{
+    margin-left: 1vw;
+    height: 50vh;
+    width: 98vw;
+    background-color: white;
+
+}
+.main2 .top{
+    margin-top: 10px;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+    
+}
+.main2 .top p{
+    font-size: 25px;
+    
+}
+.main2 .top  a{
+    text-decoration: none;
+}
+.main2 .top  a p{
+    font-size: 15px;
+    color: rgb(128, 126, 122);
+}
+.main2 .down{
+    display: flex;
+    flex-direction: row;
+    column-gap: 14px;
+}
+.main2 .down .b1{
+   display: flex;
+   flex-direction: row;
+}
+.main2 .down .b1 img{
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 150px;
+    width: 170px;
+}
+.main2 .down .b1 .label{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+}
+.main2 .down .b1 .label .p1{
+    height: 15px;
+    background-color: rgb(115, 7, 7);
+    color: aliceblue;
+    padding: 5px;
+}
+.main2 .down .b1 a{
+    text-decoration: none;
+}
+.main2 .down .b1 p{
+    margin-top: 10px;
+    color: rgb(115, 7, 7);
+
+}
+.main2 .down .b2{
+    display: flex;
+    flex-direction: row;
+ }
+ .main2 .down .b2 img{
+     margin-top: 20px;
+     margin-left: 20px;
+     height: 150px;
+     width: 170px;
+ }
+ .main2 .down .b2 .label{
+     margin-top: 20px;
+     display: flex;
+     flex-direction: row;
+     column-gap: 20px;
+ }
+ .main2 .down .b2 .label .p1{
+     height: 15px;
+     background-color: rgb(115, 7, 7);
+     color: aliceblue;
+     padding: 5px;
+ }
+ .main2 .down .b2 a{
+     text-decoration: none;
+ }
+ .main2 .down .b2 p{
+     margin-top: 10px;
+     color: rgb(115, 7, 7);
+ 
+ }
+
+
+
+
+

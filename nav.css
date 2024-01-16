@@ -1,0 +1,74 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+    height: 60px;
+    width: 100%;
+    background-color: #131921;
+}
+nav div:hover{
+    border: 1px solid white;
+
+}
+nav div a{
+    text-decoration: none;
+    color: white;
+}
+
+nav div.logo1 a img{
+    height: 60px;
+    width: 100px;
+
+}
+nav .logo2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+
+}
+nav .logo3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav .logo3 input{
+    width: 50vw;
+    height: 5vh;
+    
+}
+nav .logo4{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+nav .logo4 img{
+    height: 25px;
+    width: 25px;
+}
+nav .logo5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header div.belowheader{
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+    height: 40px;
+    background-color: #232f3e;
+}
+header div.belowheader img:hover{
+    border: 1px solid white;
+    
+}
+header div.belowheader li{
+    list-style: none;
+    color: white;
+}
+header div.belowheader li:hover{
+    border: 1px solid white;
+}

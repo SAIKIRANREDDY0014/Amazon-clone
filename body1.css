@@ -1,0 +1,222 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+
+div.body{
+    background-color: rgb(216, 218, 218);
+    height: 860vh;
+    width: 100%;
+}
+.body .main{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.body img{
+    height: 50vh;
+    width: 100vw;
+    background-size: cover;
+
+}
+.body div.con1{
+    margin: 20px;
+    background-color: white;
+    height: 425px;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    column-gap: 40px;
+   
+   
+    
+    
+
+}
+.body div.con1 p.start{
+    margin: 20px 10px 20px 20px;
+    font-size: 22px;
+    
+   
+
+}
+.body div.con1 a.end{
+    margin-top: 25px;
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 15px;
+}
+.body div.con1 a.end:hover{
+    text-decoration: underline;
+    color: red;
+}
+
+
+.body .con1 div.grid{
+    margin-left: 20px;
+    
+    display: grid;
+    column-gap: 5px;
+    row-gap: 20px;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+   
+}
+
+.body div.con1 .grid img{
+ height: 100px;
+ width: 125px;
+
+}
+.body div.con1 a{
+    text-decoration: none;
+    color: black;
+}
+
+.body div.con2{
+    margin: 20px;
+    background-color: white;
+    height: 425px;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    
+    column-gap: 40px;
+
+}
+.body div.con2 p.start{
+    margin: 20px 10px 20px 20px;
+    font-size: 22px;
+}
+.body div.con2 a.end{
+    margin-top: 25px;
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 15px;
+}
+.body div.con2 a.end:hover{
+    text-decoration: underline;
+    color: red;
+}
+.body .con2 div.box{
+    
+    margin-left: 20px;
+   
+}
+.body div.con2 .box img{
+    height: 250px;
+    width: 250px;
+   
+   }
+
+.body div.con2 a{
+    
+   
+    text-decoration: none;
+    color: black;
+}
+.body div.con3{
+    margin: 20px;
+    background-color: white;
+    height: 425px;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    column-gap: 40px;
+   
+   
+    
+    
+
+}
+.body div.con3 p.start{
+    margin: 20px 10px 20px 20px;
+    font-size: 22px;
+    
+   
+
+}
+.body div.con3 a.end{
+    margin-top: 1px;
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 15px;
+}
+.body div.con3 a.end:hover{
+    text-decoration: underline;
+    color: red;
+}
+
+
+.body .con3 div.grid{
+    margin-left: 20px;
+    
+    display: grid;
+    column-gap: 5px;
+    row-gap: 20px;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+   
+}
+
+.body div.con3 .grid img{
+ height: 100px;
+ width: 125px;
+
+}
+.body div.con3 a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.body div.con4{
+    margin: 20px;
+    background-color: white;
+    height: 425px;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    column-gap: 40px;
+}
+.body div.con4 p.start{
+    margin: 20px 10px 20px 20px;
+    font-size: 22px;
+    
+   
+
+}
+.body div.con4 a.end{
+    margin-top: 25px;
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 15px;
+}
+.body div.con4 a.end:hover{
+    text-decoration: underline;
+    color: red;
+}
+
+
+.body .con4 div.grid{
+    margin-left: 20px;
+    
+    display: grid;
+    column-gap: 5px;
+    row-gap: 20px;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+   
+}
+
+.body div.con4 .grid img{
+ height: 100px;
+ width: 125px;
+
+}
+.body div.con4 a{
+    text-decoration: none;
+    color: black;
+}
